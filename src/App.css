@@ -1,0 +1,16 @@
+* {
+  margin: 8px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  margin-top: 20px;
+  min-height: 98.5vh;
+  border: 8px solid #a1a1a193;
+  background-color: rgb(102, 102, 102);
+  margin: 5px;
+  padding: 5px;
+}
+
+
